@@ -3,7 +3,7 @@ setup(
 	# 배포할 패키지의 이름
     name = 'pipdisttest',
     # 배포할 패키지의 버전
-	version = '0.0.2', 
+	version = '0.0.3', 
     # 배포할 패키지에 대한 설명
 	description = 'pypi deploy test', 
 	# 배포하는 사람의 이름
